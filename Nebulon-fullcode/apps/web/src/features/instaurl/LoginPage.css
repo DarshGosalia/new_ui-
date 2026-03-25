@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+.lp-root {
+  min-height: 100vh;
+  background: linear-gradient(145deg, #0F1E1D 0%, #162B2A 50%, #0A1615 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  font-family: 'Outfit', sans-serif;
+}
+
+.lp-card {
+  background: rgba(255,255,255,0.04);
+  backdrop-filter: blur(30px);
+  border: 1px solid rgba(255,255,255,0.09);
+  border-radius: 28px;
+  padding: 3rem 2.5rem;
+  width: 100%;
+  max-width: 440px;
+  box-shadow: 0 40px 100px rgba(0,0,0,0.6);
+  color: #eee;
+}
+
+.lp-brand {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.lp-logo { font-size: 2.5rem; }
+.lp-app-name {
+  font-size: 1.8rem;
+  font-weight: 800;
+  background: linear-gradient(90deg, #4EA896, #2D5F5D, #C5A03F);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0.3rem 0 0;
+}
+.lp-tagline { font-size: 0.82rem; color: rgba(255,255,255,0.4); margin: 4px 0 0; }
+
+.lp-title { font-size: 1.4rem; font-weight: 700; margin: 0 0 0.3rem; }
+.lp-sub { font-size: 0.85rem; color: rgba(255,255,255,0.45); margin: 0 0 1.5rem; }
+
+.lp-error {
+  background: rgba(217, 79, 79, 0.12);
+  border: 1px solid rgba(217, 79, 79, 0.3);
+  color: #f87171;
+  border-radius: 10px;
+  padding: 0.7rem 1rem;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+}
+.lp-info {
+  background: rgba(78, 168, 150, 0.12);
+  border: 1px solid rgba(78, 168, 150, 0.3);
+  color: #4EA896;
+  border-radius: 10px;
+  padding: 0.7rem 1rem;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+.lp-form { display: flex; flex-direction: column; gap: 1rem; }
+
+.lp-field { display: flex; flex-direction: column; gap: 0.4rem; }
+.lp-field label { font-size: 0.8rem; font-weight: 600; color: rgba(255,255,255,0.5); text-transform: uppercase; letter-spacing: 0.5px; }
+
+.lp-input {
+  background: rgba(255,255,255,0.06);
+  border: 1.5px solid rgba(255,255,255,0.1);
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
+  font-size: 0.95rem;
+  color: #f0f0f0;
+  font-family: 'Outfit', sans-serif;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.lp-input::placeholder { color: rgba(255,255,255,0.25); }
+.lp-input:focus { border-color: #2D5F5D; background: rgba(255,255,255,0.09); }
+
+.lp-btn-primary {
+  background: linear-gradient(135deg, #2D5F5D, #C5A03F);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: 'Outfit', sans-serif;
+  cursor: pointer;
+  margin-top: 0.4rem;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+.lp-btn-primary:hover:not(:disabled) { transform: translateY(-1px); box-shadow: 0 10px 25px rgba(45, 95, 93, 0.4); }
+.lp-btn-primary:disabled { opacity: 0.6; cursor: not-allowed; }
+
+.lp-divider {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 1.2rem 0;
+  color: rgba(255,255,255,0.3);
+  font-size: 0.8rem;
+}
+.lp-divider::before, .lp-divider::after { content: ''; flex: 1; height: 1px; background: rgba(255,255,255,0.08); }
+
+.lp-btn-google {
+  background: rgba(255,255,255,0.06);
+  border: 1.5px solid rgba(255,255,255,0.12);
+  color: rgba(255,255,255,0.85);
+  border-radius: 12px;
+  padding: 0.85rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-family: 'Outfit', sans-serif;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7rem;
+  transition: all 0.2s;
+  width: 100%;
+}
+.lp-btn-google:hover:not(:disabled) { background: rgba(255,255,255,0.11); color: white; }
+
+.lp-footer-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+.lp-link {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.5);
+  font-size: 0.85rem;
+  cursor: pointer;
+  font-family: 'Outfit', sans-serif;
+  text-decoration: underline;
+  transition: color 0.15s;
+}
+.lp-link:hover { color: rgba(255,255,255,0.85); }
+
+.lp-secure-note {
+  text-align: center;
+  margin: 1.5rem 0 0;
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.25);
+}
+
+.lp-spin {
+  width: 18px; height: 18px;
+  border: 2px solid rgba(255,255,255,0.3);
+  border-top-color: white;
+  border-radius: 50%;
+  animation: lp-spin 0.7s linear infinite;
+  display: inline-block;
+}
+@keyframes lp-spin { to { transform: rotate(360deg); } }

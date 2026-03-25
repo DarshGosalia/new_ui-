@@ -1,0 +1,1688 @@
+{
+  "customers": [
+    [
+      "c-1774408364146",
+      {
+        "id": "c-1774408364146",
+        "name": "faa",
+        "contactNumber": "252",
+        "totalPurchases": 20,
+        "outstandingBalance": 0,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:12:44.146Z",
+        "lastActiveAt": "2026-03-25T03:12:44.146Z"
+      }
+    ],
+    [
+      "c-1774408402535-511",
+      {
+        "id": "c-1774408402535-511",
+        "name": "Customer_0",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 6770,
+        "outstandingBalance": 6770,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.535Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402535-658",
+      {
+        "id": "c-1774408402535-658",
+        "name": "Customer_1",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7024,
+        "outstandingBalance": 7024,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.535Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402535-422",
+      {
+        "id": "c-1774408402535-422",
+        "name": "Customer_2",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7858,
+        "outstandingBalance": 7858,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.535Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-657",
+      {
+        "id": "c-1774408402536-657",
+        "name": "Customer_3",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 8922,
+        "outstandingBalance": 8922,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-880",
+      {
+        "id": "c-1774408402536-880",
+        "name": "Customer_4",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1250,
+        "outstandingBalance": 1250,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-574",
+      {
+        "id": "c-1774408402536-574",
+        "name": "Customer_5",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 6876,
+        "outstandingBalance": 6876,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-24",
+      {
+        "id": "c-1774408402536-24",
+        "name": "Customer_6",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7542,
+        "outstandingBalance": 7542,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-265",
+      {
+        "id": "c-1774408402536-265",
+        "name": "Customer_7",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 9638,
+        "outstandingBalance": 9638,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-501",
+      {
+        "id": "c-1774408402536-501",
+        "name": "Customer_8",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7470,
+        "outstandingBalance": 7470,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-834",
+      {
+        "id": "c-1774408402536-834",
+        "name": "Customer_9",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1712,
+        "outstandingBalance": 1712,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-951",
+      {
+        "id": "c-1774408402536-951",
+        "name": "Customer_10",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 9268,
+        "outstandingBalance": 9268,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-895",
+      {
+        "id": "c-1774408402536-895",
+        "name": "Customer_11",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 5390,
+        "outstandingBalance": 5390,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-962",
+      {
+        "id": "c-1774408402536-962",
+        "name": "Customer_12",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 4560,
+        "outstandingBalance": 4560,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-539",
+      {
+        "id": "c-1774408402536-539",
+        "name": "Customer_13",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 9274,
+        "outstandingBalance": 9274,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-177",
+      {
+        "id": "c-1774408402536-177",
+        "name": "Customer_14",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1132,
+        "outstandingBalance": 1132,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-416",
+      {
+        "id": "c-1774408402536-416",
+        "name": "Customer_15",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 6026,
+        "outstandingBalance": 6026,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-825",
+      {
+        "id": "c-1774408402536-825",
+        "name": "Customer_16",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 4828,
+        "outstandingBalance": 4828,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-806",
+      {
+        "id": "c-1774408402536-806",
+        "name": "Customer_17",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1424,
+        "outstandingBalance": 1424,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-967",
+      {
+        "id": "c-1774408402536-967",
+        "name": "Customer_18",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 9230,
+        "outstandingBalance": 9230,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-179",
+      {
+        "id": "c-1774408402536-179",
+        "name": "Customer_19",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 9926,
+        "outstandingBalance": 9926,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-297",
+      {
+        "id": "c-1774408402536-297",
+        "name": "Customer_20",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 9774,
+        "outstandingBalance": 9774,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-809",
+      {
+        "id": "c-1774408402536-809",
+        "name": "Customer_21",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1636,
+        "outstandingBalance": 1636,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-131",
+      {
+        "id": "c-1774408402536-131",
+        "name": "Customer_22",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 5396,
+        "outstandingBalance": 5396,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-660",
+      {
+        "id": "c-1774408402536-660",
+        "name": "Customer_23",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 2290,
+        "outstandingBalance": 2290,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-303",
+      {
+        "id": "c-1774408402536-303",
+        "name": "Customer_24",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7524,
+        "outstandingBalance": 7524,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-860",
+      {
+        "id": "c-1774408402536-860",
+        "name": "Customer_25",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 8034,
+        "outstandingBalance": 8034,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-664",
+      {
+        "id": "c-1774408402536-664",
+        "name": "Customer_26",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 3344,
+        "outstandingBalance": 3344,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-261",
+      {
+        "id": "c-1774408402536-261",
+        "name": "Customer_27",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 6800,
+        "outstandingBalance": 6800,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-170",
+      {
+        "id": "c-1774408402536-170",
+        "name": "Customer_28",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 2294,
+        "outstandingBalance": 2294,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-216",
+      {
+        "id": "c-1774408402536-216",
+        "name": "Customer_29",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 9248,
+        "outstandingBalance": 9248,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-650",
+      {
+        "id": "c-1774408402536-650",
+        "name": "Customer_30",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 2626,
+        "outstandingBalance": 2626,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-482",
+      {
+        "id": "c-1774408402536-482",
+        "name": "Customer_31",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1142,
+        "outstandingBalance": 1142,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-233",
+      {
+        "id": "c-1774408402536-233",
+        "name": "Customer_32",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7294,
+        "outstandingBalance": 7294,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-243",
+      {
+        "id": "c-1774408402536-243",
+        "name": "Customer_33",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 5054,
+        "outstandingBalance": 5054,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-580",
+      {
+        "id": "c-1774408402536-580",
+        "name": "Customer_34",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 2802,
+        "outstandingBalance": 2802,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-575",
+      {
+        "id": "c-1774408402536-575",
+        "name": "Customer_35",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1624,
+        "outstandingBalance": 1624,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-778",
+      {
+        "id": "c-1774408402536-778",
+        "name": "Customer_36",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 5172,
+        "outstandingBalance": 5172,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-803",
+      {
+        "id": "c-1774408402536-803",
+        "name": "Customer_37",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1540,
+        "outstandingBalance": 1540,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-47",
+      {
+        "id": "c-1774408402536-47",
+        "name": "Customer_38",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7832,
+        "outstandingBalance": 7832,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-671",
+      {
+        "id": "c-1774408402536-671",
+        "name": "Customer_39",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 8132,
+        "outstandingBalance": 8132,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402536-953",
+      {
+        "id": "c-1774408402536-953",
+        "name": "Customer_40",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 9838,
+        "outstandingBalance": 9838,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.536Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-259",
+      {
+        "id": "c-1774408402537-259",
+        "name": "Customer_41",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 3758,
+        "outstandingBalance": 3758,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-383",
+      {
+        "id": "c-1774408402537-383",
+        "name": "Customer_42",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7976,
+        "outstandingBalance": 7976,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-373",
+      {
+        "id": "c-1774408402537-373",
+        "name": "Customer_43",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 5842,
+        "outstandingBalance": 5842,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-182",
+      {
+        "id": "c-1774408402537-182",
+        "name": "Customer_44",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 6760,
+        "outstandingBalance": 6760,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-103",
+      {
+        "id": "c-1774408402537-103",
+        "name": "Customer_45",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 7360,
+        "outstandingBalance": 7360,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-273",
+      {
+        "id": "c-1774408402537-273",
+        "name": "Customer_46",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1198,
+        "outstandingBalance": 1198,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-973",
+      {
+        "id": "c-1774408402537-973",
+        "name": "Customer_47",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 5810,
+        "outstandingBalance": 5810,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-73",
+      {
+        "id": "c-1774408402537-73",
+        "name": "Customer_48",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 1182,
+        "outstandingBalance": 1182,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ],
+    [
+      "c-1774408402537-53",
+      {
+        "id": "c-1774408402537-53",
+        "name": "Customer_49",
+        "contactNumber": "Auto-Created via Statement",
+        "totalPurchases": 5986,
+        "outstandingBalance": 5986,
+        "averagePaymentTimeDays": 0,
+        "creditLimit": 5000,
+        "riskStatus": "Green",
+        "createdAt": "2026-03-25T03:13:22.537Z",
+        "lastActiveAt": "2026-03-25T03:17:30.735Z"
+      }
+    ]
+  ],
+  "transactions": [
+    {
+      "id": "t-1774408402536-492",
+      "customerId": "c-1774408402536-580",
+      "date": "2026-03-30T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1401,
+      "runningBalance": 1401,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-338",
+      "customerId": "c-1774408402536-580",
+      "date": "2026-03-30T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1401,
+      "runningBalance": 2802,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-511",
+      "customerId": "c-1774408402536-834",
+      "date": "2026-03-25T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 856,
+      "runningBalance": 856,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-213",
+      "customerId": "c-1774408402537-373",
+      "date": "2026-03-25T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2921,
+      "runningBalance": 2921,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-760",
+      "customerId": "c-1774408402537-53",
+      "date": "2026-03-25T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2993,
+      "runningBalance": 2993,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-232",
+      "customerId": "c-1774408402536-834",
+      "date": "2026-03-25T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 856,
+      "runningBalance": 1712,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-173",
+      "customerId": "c-1774408402537-373",
+      "date": "2026-03-25T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2921,
+      "runningBalance": 5842,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-515",
+      "customerId": "c-1774408402537-53",
+      "date": "2026-03-25T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2993,
+      "runningBalance": 5986,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-610",
+      "customerId": "c-1774408402536-778",
+      "date": "2026-03-24T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2586,
+      "runningBalance": 2586,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-242",
+      "customerId": "c-1774408402536-778",
+      "date": "2026-03-24T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2586,
+      "runningBalance": 5172,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-561",
+      "customerId": "c-1774408402536-660",
+      "date": "2026-03-22T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1145,
+      "runningBalance": 1145,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-91",
+      "customerId": "c-1774408402536-660",
+      "date": "2026-03-22T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1145,
+      "runningBalance": 2290,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-336",
+      "customerId": "c-1774408402536-233",
+      "date": "2026-03-19T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3647,
+      "runningBalance": 3647,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-928",
+      "customerId": "c-1774408402536-233",
+      "date": "2026-03-19T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3647,
+      "runningBalance": 7294,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-465",
+      "customerId": "c-1774408402536-243",
+      "date": "2026-03-18T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2527,
+      "runningBalance": 2527,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-751",
+      "customerId": "c-1774408402536-243",
+      "date": "2026-03-18T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2527,
+      "runningBalance": 5054,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-677",
+      "customerId": "c-1774408402536-177",
+      "date": "2026-03-14T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 566,
+      "runningBalance": 566,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-840",
+      "customerId": "c-1774408402536-177",
+      "date": "2026-03-14T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 566,
+      "runningBalance": 1132,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-159",
+      "customerId": "c-1774408402536-179",
+      "date": "2026-03-10T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4963,
+      "runningBalance": 4963,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-853",
+      "customerId": "c-1774408402536-179",
+      "date": "2026-03-10T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4963,
+      "runningBalance": 9926,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-669",
+      "customerId": "c-1774408402536-671",
+      "date": "2026-03-08T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4066,
+      "runningBalance": 4066,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-372",
+      "customerId": "c-1774408402536-671",
+      "date": "2026-03-08T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4066,
+      "runningBalance": 8132,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-155",
+      "customerId": "c-1774408402537-103",
+      "date": "2026-03-04T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3680,
+      "runningBalance": 3680,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-712",
+      "customerId": "c-1774408402537-103",
+      "date": "2026-03-04T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3680,
+      "runningBalance": 7360,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-879",
+      "customerId": "c-1774408402536-261",
+      "date": "2026-02-26T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3400,
+      "runningBalance": 3400,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-666",
+      "customerId": "c-1774408402536-261",
+      "date": "2026-02-26T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3400,
+      "runningBalance": 6800,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-951",
+      "customerId": "c-1774408402536-24",
+      "date": "2026-02-20T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3771,
+      "runningBalance": 3771,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-923",
+      "customerId": "c-1774408402536-24",
+      "date": "2026-02-20T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3771,
+      "runningBalance": 7542,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-589",
+      "customerId": "c-1774408402536-482",
+      "date": "2026-02-19T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 571,
+      "runningBalance": 571,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-882",
+      "customerId": "c-1774408402536-482",
+      "date": "2026-02-19T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 571,
+      "runningBalance": 1142,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-651",
+      "customerId": "c-1774408402536-880",
+      "date": "2026-02-18T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 625,
+      "runningBalance": 625,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-500",
+      "customerId": "c-1774408402537-973",
+      "date": "2026-02-18T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2905,
+      "runningBalance": 2905,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-842",
+      "customerId": "c-1774408402536-880",
+      "date": "2026-02-18T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 625,
+      "runningBalance": 1250,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-611",
+      "customerId": "c-1774408402537-973",
+      "date": "2026-02-18T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2905,
+      "runningBalance": 5810,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-916",
+      "customerId": "c-1774408402536-657",
+      "date": "2026-02-12T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4461,
+      "runningBalance": 4461,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-933",
+      "customerId": "c-1774408402536-574",
+      "date": "2026-02-12T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3438,
+      "runningBalance": 3438,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-410",
+      "customerId": "c-1774408402536-657",
+      "date": "2026-02-12T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4461,
+      "runningBalance": 8922,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-214",
+      "customerId": "c-1774408402536-574",
+      "date": "2026-02-12T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3438,
+      "runningBalance": 6876,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-803",
+      "customerId": "c-1774408402536-962",
+      "date": "2026-02-11T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2280,
+      "runningBalance": 2280,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-232",
+      "customerId": "c-1774408402536-962",
+      "date": "2026-02-11T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2280,
+      "runningBalance": 4560,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-851",
+      "customerId": "c-1774408402536-501",
+      "date": "2026-02-10T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3735,
+      "runningBalance": 3735,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-948",
+      "customerId": "c-1774408402536-501",
+      "date": "2026-02-10T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3735,
+      "runningBalance": 7470,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-649",
+      "customerId": "c-1774408402536-265",
+      "date": "2026-02-09T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4819,
+      "runningBalance": 4819,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-49",
+      "customerId": "c-1774408402536-265",
+      "date": "2026-02-09T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4819,
+      "runningBalance": 9638,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402535-719",
+      "customerId": "c-1774408402535-658",
+      "date": "2026-02-07T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3512,
+      "runningBalance": 3512,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-543",
+      "customerId": "c-1774408402536-539",
+      "date": "2026-02-07T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4637,
+      "runningBalance": 4637,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-171",
+      "customerId": "c-1774408402537-383",
+      "date": "2026-02-07T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3988,
+      "runningBalance": 3988,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-450",
+      "customerId": "c-1774408402535-658",
+      "date": "2026-02-07T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3512,
+      "runningBalance": 7024,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-900",
+      "customerId": "c-1774408402536-539",
+      "date": "2026-02-07T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4637,
+      "runningBalance": 9274,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-823",
+      "customerId": "c-1774408402537-383",
+      "date": "2026-02-07T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3988,
+      "runningBalance": 7976,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-164",
+      "customerId": "c-1774408402536-47",
+      "date": "2026-02-03T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3916,
+      "runningBalance": 3916,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-475",
+      "customerId": "c-1774408402536-47",
+      "date": "2026-02-03T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3916,
+      "runningBalance": 7832,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-685",
+      "customerId": "c-1774408402536-806",
+      "date": "2026-02-01T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 712,
+      "runningBalance": 712,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-848",
+      "customerId": "c-1774408402536-806",
+      "date": "2026-02-01T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 712,
+      "runningBalance": 1424,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-589",
+      "customerId": "c-1774408402536-951",
+      "date": "2026-01-31T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4634,
+      "runningBalance": 4634,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-943",
+      "customerId": "c-1774408402536-951",
+      "date": "2026-01-31T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4634,
+      "runningBalance": 9268,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402535-380",
+      "customerId": "c-1774408402535-511",
+      "date": "2026-01-30T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3385,
+      "runningBalance": 3385,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-792",
+      "customerId": "c-1774408402536-860",
+      "date": "2026-01-30T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4017,
+      "runningBalance": 4017,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-66",
+      "customerId": "c-1774408402535-511",
+      "date": "2026-01-30T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3385,
+      "runningBalance": 6770,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-972",
+      "customerId": "c-1774408402536-860",
+      "date": "2026-01-30T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4017,
+      "runningBalance": 8034,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-227",
+      "customerId": "c-1774408402536-216",
+      "date": "2026-01-29T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4624,
+      "runningBalance": 4624,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-816",
+      "customerId": "c-1774408402536-216",
+      "date": "2026-01-29T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4624,
+      "runningBalance": 9248,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-511",
+      "customerId": "c-1774408402536-895",
+      "date": "2026-01-26T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2695,
+      "runningBalance": 2695,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-454",
+      "customerId": "c-1774408402536-895",
+      "date": "2026-01-26T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2695,
+      "runningBalance": 5390,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402535-194",
+      "customerId": "c-1774408402535-422",
+      "date": "2026-01-25T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3929,
+      "runningBalance": 3929,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-368",
+      "customerId": "c-1774408402535-422",
+      "date": "2026-01-25T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3929,
+      "runningBalance": 7858,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-291",
+      "customerId": "c-1774408402536-416",
+      "date": "2026-01-24T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3013,
+      "runningBalance": 3013,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-229",
+      "customerId": "c-1774408402537-273",
+      "date": "2026-01-24T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 599,
+      "runningBalance": 599,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-166",
+      "customerId": "c-1774408402536-416",
+      "date": "2026-01-24T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3013,
+      "runningBalance": 6026,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-735",
+      "customerId": "c-1774408402537-273",
+      "date": "2026-01-24T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 599,
+      "runningBalance": 1198,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-6",
+      "customerId": "c-1774408402536-575",
+      "date": "2026-01-20T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 812,
+      "runningBalance": 812,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-384",
+      "customerId": "c-1774408402536-575",
+      "date": "2026-01-20T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 812,
+      "runningBalance": 1624,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-88",
+      "customerId": "c-1774408402537-259",
+      "date": "2026-01-18T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1879,
+      "runningBalance": 1879,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-707",
+      "customerId": "c-1774408402537-259",
+      "date": "2026-01-18T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1879,
+      "runningBalance": 3758,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-400",
+      "customerId": "c-1774408402536-809",
+      "date": "2026-01-16T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 818,
+      "runningBalance": 818,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-474",
+      "customerId": "c-1774408402536-170",
+      "date": "2026-01-16T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1147,
+      "runningBalance": 1147,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-897",
+      "customerId": "c-1774408402536-809",
+      "date": "2026-01-16T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 818,
+      "runningBalance": 1636,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-695",
+      "customerId": "c-1774408402536-170",
+      "date": "2026-01-16T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1147,
+      "runningBalance": 2294,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-375",
+      "customerId": "c-1774408402536-803",
+      "date": "2026-01-14T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 770,
+      "runningBalance": 770,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-781",
+      "customerId": "c-1774408402536-803",
+      "date": "2026-01-14T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 770,
+      "runningBalance": 1540,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-96",
+      "customerId": "c-1774408402536-303",
+      "date": "2026-01-12T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3762,
+      "runningBalance": 3762,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-572",
+      "customerId": "c-1774408402537-73",
+      "date": "2026-01-12T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 591,
+      "runningBalance": 591,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-521",
+      "customerId": "c-1774408402536-303",
+      "date": "2026-01-12T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3762,
+      "runningBalance": 7524,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-332",
+      "customerId": "c-1774408402537-73",
+      "date": "2026-01-12T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 591,
+      "runningBalance": 1182,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-686",
+      "customerId": "c-1774408402536-664",
+      "date": "2026-01-11T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1672,
+      "runningBalance": 1672,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-161",
+      "customerId": "c-1774408402536-664",
+      "date": "2026-01-11T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1672,
+      "runningBalance": 3344,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-130",
+      "customerId": "c-1774408402536-967",
+      "date": "2026-01-09T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4615,
+      "runningBalance": 4615,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-542",
+      "customerId": "c-1774408402536-967",
+      "date": "2026-01-09T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4615,
+      "runningBalance": 9230,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-791",
+      "customerId": "c-1774408402536-953",
+      "date": "2026-01-08T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4919,
+      "runningBalance": 4919,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-465",
+      "customerId": "c-1774408402536-953",
+      "date": "2026-01-08T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4919,
+      "runningBalance": 9838,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-45",
+      "customerId": "c-1774408402536-825",
+      "date": "2026-01-04T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2414,
+      "runningBalance": 2414,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-575",
+      "customerId": "c-1774408402536-825",
+      "date": "2026-01-04T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2414,
+      "runningBalance": 4828,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-241",
+      "customerId": "c-1774408402536-650",
+      "date": "2026-01-03T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1313,
+      "runningBalance": 1313,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-513",
+      "customerId": "c-1774408402536-650",
+      "date": "2026-01-03T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 1313,
+      "runningBalance": 2626,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-713",
+      "customerId": "c-1774408402536-131",
+      "date": "2026-01-02T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2698,
+      "runningBalance": 2698,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-966",
+      "customerId": "c-1774408402536-131",
+      "date": "2026-01-02T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 2698,
+      "runningBalance": 5396,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402536-20",
+      "customerId": "c-1774408402536-297",
+      "date": "2026-01-01T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4887,
+      "runningBalance": 4887,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408402537-515",
+      "customerId": "c-1774408402537-182",
+      "date": "2026-01-01T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3380,
+      "runningBalance": 3380,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-499",
+      "customerId": "c-1774408402536-297",
+      "date": "2026-01-01T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 4887,
+      "runningBalance": 9774,
+      "notes": "Imported via Statement"
+    },
+    {
+      "id": "t-1774408650735-461",
+      "customerId": "c-1774408402537-182",
+      "date": "2026-01-01T00:00:00.000Z",
+      "type": "CREDIT",
+      "amount": 3380,
+      "runningBalance": 6760,
+      "notes": "Imported via Statement"
+    }
+  ],
+  "reminderTemplates": [
+    {
+      "id": "rm-1",
+      "name": "Payment Reminder",
+      "template": "Hello {{name}}, your due amount is {{amount}}. Please pay at your earliest convenience."
+    },
+    {
+      "id": "rm-2",
+      "name": "New Product Launch",
+      "template": "Hi {{name}}, we have exciting new arrivals! Visit us soon."
+    },
+    {
+      "id": "rm-3",
+      "name": "Festival Offer",
+      "template": "Happy Holidays {{name}}! Enjoy 10% off your next purchase."
+    }
+  ]
+}

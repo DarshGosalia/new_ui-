@@ -1,0 +1,301 @@
+Customer ID,Date,Region,Product,Sales,Profit,Customer Age,Customer Gender,COGS Category,COGS Amount,OPEX Category,OPEX Amount
+1,2024-01-01,Southern,Maize Seeds,1409,349,33,Male,Raw Materials,763,Rent,297
+2,2024-01-02,Central,Maize Seeds,9935,1166,45,Male,Direct Labor,6314,Utilities,2455
+3,2024-01-03,Central,Maize Seeds,4582,671,56,Male,Inbound Freight,2816,Marketing,1095
+4,2024-01-04,Southern,Fertilizer,9928,1825,46,Female,Packaging,5834,Admin Salaries,2269
+5,2024-01-05,Central,Fertilizer,7924,1331,27,Male,Raw Materials,4747,Transport,1846
+6,2024-01-06,Northern,Maize Seeds,2519,443,40,Female,Direct Labor,1495,Repairs,581
+7,2024-01-07,Southern,Pesticides,1711,420,52,Male,Inbound Freight,930,Rent,361
+8,2024-01-08,Northern,Maize Seeds,5803,1542,57,Female,Packaging,3068,Utilities,1193
+9,2024-01-09,Southern,Fertilizer,2139,233,32,Female,Raw Materials,1372,Marketing,534
+10,2024-01-10,Central,Fertilizer,2654,467,47,Female,Direct Labor,1575,Admin Salaries,612
+11,2024-01-11,Central,Pesticides,6820,967,35,Male,Inbound Freight,4214,Transport,1639
+12,2024-01-12,Southern,Fertilizer,9751,2397,28,Female,Packaging,5295,Repairs,2059
+13,2024-01-13,Northern,Pesticides,4598,1089,21,Male,Raw Materials,2526,Rent,983
+14,2024-01-14,Central,Pesticides,7572,1162,31,Female,Direct Labor,4615,Utilities,1795
+15,2024-01-15,Central,Irrigation Kit,7482,2072,59,Female,Inbound Freight,3895,Marketing,1515
+16,2024-01-16,Central,Pesticides,3287,490,53,Female,Packaging,2014,Admin Salaries,783
+17,2024-01-17,Southern,Animal Feed,8019,2241,43,Female,Raw Materials,4160,Transport,1618
+18,2024-01-18,Central,Fertilizer,9348,1857,21,Male,Direct Labor,5394,Repairs,2097
+19,2024-01-19,Central,Fertilizer,7916,1735,42,Female,Inbound Freight,4450,Rent,1731
+20,2024-01-20,Southern,Irrigation Kit,9669,1453,53,Male,Packaging,5916,Utilities,2300
+21,2024-01-21,Southern,Maize Seeds,9797,2450,59,Female,Raw Materials,5290,Marketing,2057
+22,2024-01-22,Central,Pesticides,8123,1069,18,Female,Direct Labor,5079,Admin Salaries,1975
+23,2024-01-23,Southern,Fertilizer,9317,2632,58,Female,Inbound Freight,4813,Transport,1872
+24,2024-01-24,Southern,Animal Feed,4258,555,28,Male,Packaging,2666,Repairs,1037
+25,2024-01-25,Southern,Pesticides,9005,935,41,Female,Raw Materials,5810,Rent,2260
+26,2024-01-26,Central,Maize Seeds,4946,1363,23,Male,Direct Labor,2580,Utilities,1003
+27,2024-01-27,Southern,Irrigation Kit,2133,630,52,Male,Inbound Freight,1082,Marketing,421
+28,2024-01-28,Central,Irrigation Kit,3705,566,56,Female,Packaging,2260,Admin Salaries,879
+29,2024-01-29,Central,Animal Feed,4295,1041,43,Female,Raw Materials,2343,Transport,911
+30,2024-01-30,Northern,Animal Feed,8397,1042,32,Male,Direct Labor,5296,Repairs,2059
+31,2024-01-31,Northern,Maize Seeds,4770,1038,18,Male,Inbound Freight,2687,Rent,1045
+32,2024-02-01,Southern,Maize Seeds,4750,539,20,Female,Packaging,3032,Utilities,1179
+33,2024-02-02,Central,Animal Feed,4899,762,49,Male,Raw Materials,2979,Marketing,1158
+34,2024-02-03,Southern,Fertilizer,8744,1299,48,Female,Direct Labor,5360,Admin Salaries,2085
+35,2024-02-04,Central,Maize Seeds,2588,599,40,Female,Inbound Freight,1432,Transport,557
+36,2024-02-05,Northern,Irrigation Kit,1887,442,59,Male,Packaging,1040,Repairs,405
+37,2024-02-06,Central,Irrigation Kit,6559,1706,24,Male,Raw Materials,3494,Rent,1359
+38,2024-02-07,Central,Fertilizer,9786,1856,45,Male,Direct Labor,5710,Utilities,2220
+39,2024-02-08,Northern,Irrigation Kit,5092,1399,22,Female,Inbound Freight,2659,Marketing,1034
+40,2024-02-09,Southern,Maize Seeds,1828,421,52,Male,Packaging,1013,Admin Salaries,394
+41,2024-02-10,Central,Fertilizer,3724,675,48,Male,Raw Materials,2195,Transport,854
+42,2024-02-11,Northern,Maize Seeds,3697,649,42,Female,Direct Labor,2195,Repairs,853
+43,2024-02-12,Northern,Pesticides,7930,1897,64,Female,Inbound Freight,4344,Rent,1689
+44,2024-02-13,Central,Fertilizer,5861,841,21,Male,Packaging,3614,Utilities,1406
+45,2024-02-14,Southern,Pesticides,1936,213,48,Male,Raw Materials,1241,Marketing,482
+46,2024-02-15,Central,Animal Feed,2312,624,22,Male,Direct Labor,1215,Admin Salaries,473
+47,2024-02-16,Southern,Fertilizer,7615,944,54,Male,Inbound Freight,4803,Transport,1868
+48,2024-02-17,Southern,Animal Feed,1651,369,44,Female,Packaging,923,Repairs,359
+49,2024-02-18,Northern,Fertilizer,6147,908,43,Male,Raw Materials,3772,Rent,1467
+50,2024-02-19,Southern,Pesticides,8491,1386,22,Male,Direct Labor,5116,Utilities,1989
+51,2024-02-20,Northern,Animal Feed,2638,302,31,Female,Inbound Freight,1682,Marketing,654
+52,2024-02-21,Central,Pesticides,2127,586,41,Female,Packaging,1110,Admin Salaries,431
+53,2024-02-22,Central,Irrigation Kit,9900,2383,57,Male,Raw Materials,5412,Transport,2105
+54,2024-02-23,Southern,Animal Feed,5905,1690,24,Male,Direct Labor,3035,Repairs,1180
+55,2024-02-24,Northern,Maize Seeds,2753,684,27,Female,Inbound Freight,1490,Rent,579
+56,2024-02-25,Northern,Animal Feed,4450,1083,31,Female,Packaging,2424,Utilities,943
+57,2024-02-26,Southern,Irrigation Kit,5114,1437,21,Male,Raw Materials,2647,Marketing,1030
+58,2024-02-27,Southern,Irrigation Kit,5533,602,39,Male,Direct Labor,3550,Admin Salaries,1381
+59,2024-02-28,Southern,Pesticides,3647,905,53,Female,Inbound Freight,1974,Transport,768
+60,2024-02-29,Southern,Maize Seeds,2832,325,62,Male,Packaging,1805,Repairs,702
+61,2024-03-01,Southern,Maize Seeds,7049,1526,27,Female,Raw Materials,3977,Rent,1546
+62,2024-03-02,Central,Maize Seeds,6050,1046,20,Female,Direct Labor,3603,Utilities,1401
+63,2024-03-03,Central,Fertilizer,2684,458,53,Female,Inbound Freight,1603,Marketing,623
+64,2024-03-04,Southern,Fertilizer,4878,1331,29,Female,Packaging,2554,Admin Salaries,993
+65,2024-03-05,Central,Fertilizer,6442,1652,44,Male,Raw Materials,3449,Transport,1341
+66,2024-03-06,Northern,Fertilizer,2771,489,20,Female,Direct Labor,1643,Repairs,639
+67,2024-03-07,Central,Fertilizer,8541,1451,32,Male,Inbound Freight,5105,Rent,1985
+68,2024-03-08,Central,Fertilizer,7528,1247,22,Female,Packaging,4522,Utilities,1759
+69,2024-03-09,Northern,Animal Feed,7548,1780,52,Female,Raw Materials,4153,Marketing,1615
+70,2024-03-10,Central,Maize Seeds,5279,716,34,Male,Direct Labor,3285,Admin Salaries,1278
+71,2024-03-11,Central,Animal Feed,8119,1373,38,Female,Inbound Freight,4857,Transport,1889
+72,2024-03-12,Southern,Animal Feed,2894,512,54,Male,Packaging,1715,Repairs,667
+73,2024-03-13,Northern,Maize Seeds,8144,817,52,Male,Raw Materials,5275,Rent,2052
+74,2024-03-14,Northern,Irrigation Kit,2146,621,39,Female,Direct Labor,1098,Utilities,427
+75,2024-03-15,Southern,Maize Seeds,5920,1192,60,Female,Inbound Freight,3404,Marketing,1324
+76,2024-03-16,Northern,Irrigation Kit,5844,1232,30,Female,Packaging,3321,Admin Salaries,1291
+77,2024-03-17,Southern,Irrigation Kit,3851,859,37,Female,Raw Materials,2154,Transport,838
+78,2024-03-18,Southern,Maize Seeds,5978,940,45,Female,Direct Labor,3627,Repairs,1411
+79,2024-03-19,Northern,Irrigation Kit,8244,1938,50,Female,Inbound Freight,4540,Rent,1766
+80,2024-03-20,Southern,Fertilizer,2389,374,60,Female,Packaging,1451,Utilities,564
+81,2024-03-21,Central,Fertilizer,6085,881,30,Male,Raw Materials,3747,Marketing,1457
+82,2024-03-22,Central,Maize Seeds,5011,1487,57,Male,Direct Labor,2537,Admin Salaries,987
+83,2024-03-23,Northern,Irrigation Kit,4185,1019,42,Female,Inbound Freight,2280,Transport,886
+84,2024-03-24,Northern,Fertilizer,3417,790,18,Male,Packaging,1891,Repairs,736
+85,2024-03-25,Northern,Fertilizer,3881,1012,62,Female,Raw Materials,2066,Rent,803
+86,2024-03-26,Central,Animal Feed,5082,1440,25,Female,Direct Labor,2622,Utilities,1020
+87,2024-03-27,Central,Irrigation Kit,9702,2887,56,Female,Inbound Freight,4907,Marketing,1908
+88,2024-03-28,Northern,Animal Feed,9270,1718,53,Female,Packaging,5437,Admin Salaries,2115
+89,2024-03-29,Central,Irrigation Kit,8373,1271,33,Female,Raw Materials,5113,Transport,1989
+90,2024-03-30,Southern,Irrigation Kit,4919,762,22,Female,Direct Labor,2993,Repairs,1164
+91,2024-03-31,Central,Pesticides,6502,1065,52,Male,Inbound Freight,3915,Rent,1522
+92,2024-04-01,Central,Fertilizer,4788,845,27,Male,Packaging,2839,Utilities,1104
+93,2024-04-02,Central,Irrigation Kit,7678,1275,47,Female,Raw Materials,4610,Marketing,1793
+94,2024-04-03,Central,Fertilizer,7883,1402,55,Male,Direct Labor,4666,Admin Salaries,1815
+95,2024-04-04,Southern,Irrigation Kit,8814,891,40,Female,Inbound Freight,5705,Transport,2218
+96,2024-04-05,Northern,Irrigation Kit,9818,2449,52,Male,Packaging,5306,Repairs,2063
+97,2024-04-06,Northern,Fertilizer,5471,1023,19,Female,Raw Materials,3203,Rent,1245
+98,2024-04-07,Northern,Irrigation Kit,3704,993,26,Male,Direct Labor,1952,Utilities,759
+99,2024-04-08,Northern,Animal Feed,1444,168,45,Male,Inbound Freight,919,Marketing,357
+100,2024-04-09,Northern,Fertilizer,1823,277,38,Male,Packaging,1113,Admin Salaries,433
+101,2024-04-10,Central,Maize Seeds,6241,1232,36,Female,Raw Materials,3606,Transport,1403
+102,2024-04-11,Southern,Fertilizer,7892,1587,41,Male,Direct Labor,4540,Repairs,1765
+103,2024-04-12,Northern,Pesticides,3125,625,28,Female,Inbound Freight,1800,Rent,700
+104,2024-04-13,Central,Irrigation Kit,8456,1691,54,Male,Packaging,4871,Utilities,1894
+105,2024-04-14,Southern,Animal Feed,4782,956,33,Female,Raw Materials,2755,Marketing,1071
+106,2024-04-15,Northern,Maize Seeds,5298,1059,47,Male,Direct Labor,3052,Admin Salaries,1187
+107,2024-04-16,Central,Fertilizer,6931,1386,22,Female,Inbound Freight,3992,Transport,1553
+108,2024-04-17,Southern,Pesticides,3842,768,38,Male,Packaging,2213,Repairs,861
+109,2024-04-18,Northern,Irrigation Kit,9123,1824,59,Female,Raw Materials,5255,Rent,2044
+110,2024-04-19,Central,Animal Feed,2567,513,25,Male,Direct Labor,1479,Utilities,575
+111,2024-04-20,Southern,Maize Seeds,8342,1668,44,Female,Inbound Freight,4805,Marketing,1869
+112,2024-04-21,Northern,Fertilizer,4712,942,31,Male,Packaging,2714,Admin Salaries,1056
+113,2024-04-22,Central,Pesticides,6985,1397,53,Female,Raw Materials,4023,Transport,1565
+114,2024-04-23,Southern,Irrigation Kit,5124,1025,29,Male,Direct Labor,2951,Repairs,1148
+115,2024-04-24,Northern,Animal Feed,6231,1246,35,Female,Inbound Freight,3589,Rent,1396
+116,2024-04-25,Central,Maize Seeds,7894,1578,42,Male,Packaging,4548,Utilities,1768
+117,2024-04-26,Southern,Fertilizer,3456,691,27,Female,Raw Materials,1991,Marketing,774
+118,2024-04-27,Northern,Pesticides,9128,1825,50,Male,Direct Labor,5258,Admin Salaries,2045
+119,2024-04-28,Central,Irrigation Kit,4789,958,39,Female,Inbound Freight,2758,Transport,1073
+120,2024-04-29,Southern,Animal Feed,5632,1126,46,Male,Packaging,3244,Repairs,1262
+121,2024-04-30,Northern,Maize Seeds,6721,1344,34,Female,Raw Materials,3871,Rent,1506
+122,2024-05-01,Central,Fertilizer,7892,1587,51,Male,Direct Labor,4540,Utilities,1765
+123,2024-05-02,Southern,Pesticides,3125,625,28,Female,Inbound Freight,1800,Marketing,700
+124,2024-05-03,Northern,Irrigation Kit,8456,1691,54,Male,Packaging,4871,Admin Salaries,1894
+125,2024-05-04,Central,Animal Feed,4782,956,33,Female,Raw Materials,2755,Transport,1071
+126,2024-05-05,Southern,Maize Seeds,5298,1059,47,Male,Direct Labor,3052,Repairs,1187
+127,2024-05-06,Northern,Fertilizer,6931,1386,22,Female,Inbound Freight,3992,Rent,1553
+128,2024-05-07,Central,Pesticides,3842,768,38,Male,Packaging,2213,Utilities,861
+129,2024-05-08,Southern,Irrigation Kit,9123,1824,59,Female,Raw Materials,5255,Marketing,2044
+130,2024-05-09,Northern,Animal Feed,2567,513,25,Male,Direct Labor,1479,Admin Salaries,575
+131,2024-05-10,Central,Maize Seeds,8342,1668,44,Female,Inbound Freight,4805,Transport,1869
+132,2024-05-11,Southern,Fertilizer,4712,942,31,Male,Packaging,2714,Repairs,1056
+133,2024-05-12,Northern,Pesticides,6985,1397,53,Female,Raw Materials,4023,Rent,1565
+134,2024-05-13,Central,Irrigation Kit,5124,1025,29,Male,Direct Labor,2951,Utilities,1148
+135,2024-05-14,Southern,Animal Feed,6231,1246,35,Female,Inbound Freight,3589,Marketing,1396
+136,2024-05-15,Northern,Maize Seeds,7894,1578,42,Male,Packaging,4548,Admin Salaries,1768
+137,2024-05-16,Central,Fertilizer,3456,691,27,Female,Raw Materials,1991,Transport,774
+138,2024-05-17,Southern,Pesticides,9128,1825,50,Male,Direct Labor,5258,Repairs,2045
+139,2024-05-18,Northern,Irrigation Kit,4789,958,39,Female,Inbound Freight,2758,Rent,1073
+140,2024-05-19,Central,Animal Feed,5632,1126,46,Male,Packaging,3244,Utilities,1262
+141,2024-05-20,Southern,Maize Seeds,6721,1344,34,Female,Raw Materials,3871,Marketing,1506
+142,2024-05-21,Northern,Fertilizer,7892,1587,51,Male,Direct Labor,4540,Admin Salaries,1765
+143,2024-05-22,Central,Pesticides,3125,625,28,Female,Inbound Freight,1800,Transport,700
+144,2024-05-23,Southern,Irrigation Kit,8456,1691,54,Male,Packaging,4871,Repairs,1894
+145,2024-05-24,Northern,Animal Feed,4782,956,33,Female,Raw Materials,2755,Rent,1071
+146,2024-05-25,Central,Maize Seeds,5298,1059,47,Male,Direct Labor,3052,Utilities,1187
+147,2024-05-26,Southern,Fertilizer,6931,1386,22,Female,Inbound Freight,3992,Marketing,1553
+148,2024-05-27,Northern,Pesticides,3842,768,38,Male,Packaging,2213,Admin Salaries,861
+149,2024-05-28,Central,Irrigation Kit,9123,1824,59,Female,Raw Materials,5255,Transport,2044
+150,2024-05-29,Southern,Animal Feed,2567,513,25,Male,Direct Labor,1479,Repairs,575
+151,2024-05-30,Northern,Maize Seeds,8342,1668,44,Female,Inbound Freight,4805,Rent,1869
+152,2024-05-31,Central,Fertilizer,4712,942,31,Male,Packaging,2714,Utilities,1056
+153,2024-06-01,Southern,Pesticides,6985,1397,53,Female,Raw Materials,4023,Marketing,1565
+154,2024-06-02,Northern,Irrigation Kit,5124,1025,29,Male,Direct Labor,2951,Admin Salaries,1148
+155,2024-06-03,Central,Animal Feed,6231,1246,35,Female,Inbound Freight,3589,Transport,1396
+156,2024-06-04,Southern,Maize Seeds,7894,1578,42,Male,Packaging,4548,Repairs,1768
+157,2024-06-05,Northern,Fertilizer,3456,691,27,Female,Raw Materials,1991,Rent,774
+158,2024-06-06,Central,Pesticides,9128,1825,50,Male,Direct Labor,5258,Utilities,2045
+159,2024-06-07,Southern,Irrigation Kit,4789,958,39,Female,Inbound Freight,2758,Marketing,1073
+160,2024-06-08,Northern,Animal Feed,5632,1126,46,Male,Packaging,3244,Admin Salaries,1262
+161,2024-06-09,Central,Maize Seeds,6721,1344,34,Female,Raw Materials,3871,Transport,1506
+162,2024-06-10,Southern,Fertilizer,7892,1587,51,Male,Direct Labor,4540,Repairs,1765
+163,2024-06-11,Northern,Pesticides,3125,625,28,Female,Inbound Freight,1800,Rent,700
+164,2024-06-12,Central,Irrigation Kit,8456,1691,54,Male,Packaging,4871,Utilities,1894
+165,2024-06-13,Southern,Animal Feed,4782,956,33,Female,Raw Materials,2755,Marketing,1071
+166,2024-06-14,Northern,Maize Seeds,5298,1059,47,Male,Direct Labor,3052,Admin Salaries,1187
+167,2024-06-15,Central,Fertilizer,6931,1386,22,Female,Inbound Freight,3992,Transport,1553
+168,2024-06-16,Southern,Pesticides,3842,768,38,Male,Packaging,2213,Repairs,861
+169,2024-06-17,Northern,Irrigation Kit,9123,1824,59,Female,Raw Materials,5255,Rent,2044
+170,2024-06-18,Central,Animal Feed,2567,513,25,Male,Direct Labor,1479,Utilities,575
+171,2024-06-19,Southern,Maize Seeds,8342,1668,44,Female,Inbound Freight,4805,Marketing,1869
+172,2024-06-20,Northern,Fertilizer,4712,942,31,Male,Packaging,2714,Admin Salaries,1056
+173,2024-06-21,Central,Pesticides,6985,1397,53,Female,Raw Materials,4023,Transport,1565
+174,2024-06-22,Southern,Irrigation Kit,5124,1025,29,Male,Direct Labor,2951,Repairs,1148
+175,2024-06-23,Northern,Animal Feed,6231,1246,35,Female,Inbound Freight,3589,Rent,1396
+176,2024-06-24,Central,Maize Seeds,7894,1578,42,Male,Packaging,4548,Utilities,1768
+177,2024-06-25,Southern,Fertilizer,3456,691,27,Female,Raw Materials,1991,Marketing,774
+178,2024-06-26,Northern,Pesticides,9128,1825,50,Male,Direct Labor,5258,Admin Salaries,2045
+179,2024-06-27,Central,Irrigation Kit,4789,958,39,Female,Inbound Freight,2758,Transport,1073
+180,2024-06-28,Southern,Animal Feed,5632,1126,46,Male,Packaging,3244,Repairs,1262
+181,2024-06-29,Northern,Maize Seeds,6721,1344,34,Female,Raw Materials,3871,Rent,1506
+182,2024-06-30,Central,Fertilizer,7892,1587,51,Male,Direct Labor,4540,Utilities,1765
+183,2024-07-01,Southern,Pesticides,3125,625,28,Female,Inbound Freight,1800,Marketing,700
+184,2024-07-02,Northern,Irrigation Kit,8456,1691,54,Male,Packaging,4871,Admin Salaries,1894
+185,2024-07-03,Central,Animal Feed,4782,956,33,Female,Raw Materials,2755,Transport,1071
+186,2024-07-04,Southern,Maize Seeds,5298,1059,47,Male,Direct Labor,3052,Repairs,1187
+187,2024-07-05,Northern,Fertilizer,6931,1386,22,Female,Inbound Freight,3992,Rent,1553
+188,2024-07-06,Central,Pesticides,3842,768,38,Male,Packaging,2213,Utilities,861
+189,2024-07-07,Southern,Irrigation Kit,9123,1824,59,Female,Raw Materials,5255,Marketing,2044
+190,2024-07-08,Northern,Animal Feed,2567,513,25,Male,Direct Labor,1479,Admin Salaries,575
+191,2024-07-09,Central,Maize Seeds,8342,1668,44,Female,Inbound Freight,4805,Transport,1869
+192,2024-07-10,Southern,Fertilizer,4712,942,31,Male,Packaging,2714,Repairs,1056
+193,2024-07-11,Northern,Pesticides,6985,1397,53,Female,Raw Materials,4023,Rent,1565
+194,2024-07-12,Central,Irrigation Kit,5124,1025,29,Male,Direct Labor,2951,Utilities,1148
+195,2024-07-13,Southern,Animal Feed,6231,1246,35,Female,Inbound Freight,3589,Marketing,1396
+196,2024-07-14,Northern,Maize Seeds,7894,1578,42,Male,Packaging,4548,Admin Salaries,1768
+197,2024-07-15,Central,Fertilizer,3456,691,27,Female,Raw Materials,1991,Transport,774
+198,2024-07-16,Southern,Pesticides,9128,1825,50,Male,Direct Labor,5258,Repairs,2045
+199,2024-07-17,Northern,Irrigation Kit,4789,958,39,Female,Inbound Freight,2758,Rent,1073
+200,2024-07-18,Central,Animal Feed,5632,1126,46,Male,Packaging,3244,Utilities,1262
+201,2024-07-19,Southern,Maize Seeds,7123,1425,38,Female,Raw Materials,4103,Marketing,1595
+202,2024-07-20,Northern,Fertilizer,3891,780,41,Male,Direct Labor,2240,Admin Salaries,871
+203,2024-07-21,Central,Pesticides,8452,1690,29,Female,Inbound Freight,4869,Transport,1893
+204,2024-07-22,Southern,Irrigation Kit,5129,1025,53,Male,Packaging,2955,Repairs,1149
+205,2024-07-23,Northern,Animal Feed,6237,1247,36,Female,Raw Materials,3593,Rent,1397
+206,2024-07-24,Central,Maize Seeds,7899,1579,43,Male,Direct Labor,4550,Utilities,1770
+207,2024-07-25,Southern,Fertilizer,3461,692,28,Female,Inbound Freight,1994,Marketing,775
+208,2024-07-26,Northern,Pesticides,9133,1826,51,Male,Packaging,5261,Admin Salaries,2046
+209,2024-07-27,Central,Irrigation Kit,4794,959,40,Female,Raw Materials,2761,Transport,1074
+210,2024-07-28,Southern,Animal Feed,5637,1127,47,Male,Direct Labor,3247,Repairs,1263
+211,2024-07-29,Northern,Maize Seeds,6726,1345,35,Female,Inbound Freight,3874,Rent,1507
+212,2024-07-30,Central,Fertilizer,7897,1588,52,Male,Packaging,4542,Utilities,1767
+213,2024-07-31,Southern,Pesticides,3130,626,29,Female,Raw Materials,1803,Marketing,701
+214,2024-08-01,Northern,Irrigation Kit,8461,1692,55,Male,Direct Labor,4874,Admin Salaries,1895
+215,2024-08-02,Central,Animal Feed,4787,957,34,Female,Inbound Freight,2758,Transport,1072
+216,2024-08-03,Southern,Maize Seeds,5303,1060,48,Male,Packaging,3055,Repairs,1188
+217,2024-08-04,Northern,Fertilizer,6936,1387,23,Female,Raw Materials,3995,Rent,1554
+218,2024-08-05,Central,Pesticides,3847,769,39,Male,Direct Labor,2216,Utilities,862
+219,2024-08-06,Southern,Irrigation Kit,9128,1825,60,Female,Inbound Freight,5258,Marketing,2045
+220,2024-08-07,Northern,Animal Feed,2572,514,26,Male,Packaging,1482,Admin Salaries,576
+221,2024-08-08,Central,Maize Seeds,8347,1669,45,Female,Raw Materials,4808,Transport,1870
+222,2024-08-09,Southern,Fertilizer,4717,943,32,Male,Direct Labor,2717,Repairs,1057
+223,2024-08-10,Northern,Pesticides,6990,1398,54,Female,Inbound Freight,4026,Rent,1566
+224,2024-08-11,Central,Irrigation Kit,5129,1026,30,Male,Packaging,2954,Utilities,1149
+225,2024-08-12,Southern,Animal Feed,6236,1247,36,Female,Raw Materials,3592,Marketing,1397
+226,2024-08-13,Northern,Maize Seeds,7899,1579,43,Male,Direct Labor,4550,Admin Salaries,1770
+227,2024-08-14,Central,Fertilizer,3461,692,28,Female,Inbound Freight,1994,Transport,775
+228,2024-08-15,Southern,Pesticides,9133,1826,51,Male,Packaging,5261,Repairs,2046
+229,2024-08-16,Northern,Irrigation Kit,4794,959,40,Female,Raw Materials,2761,Rent,1074
+230,2024-08-17,Central,Animal Feed,5637,1127,47,Male,Direct Labor,3247,Utilities,1263
+231,2024-08-18,Southern,Maize Seeds,6726,1345,35,Female,Inbound Freight,3874,Marketing,1507
+232,2024-08-19,Northern,Fertilizer,7897,1588,52,Male,Packaging,4542,Admin Salaries,1767
+233,2024-08-20,Central,Pesticides,3130,626,29,Female,Raw Materials,1803,Transport,701
+234,2024-08-21,Southern,Irrigation Kit,8461,1692,55,Male,Direct Labor,4874,Repairs,1895
+235,2024-08-22,Northern,Animal Feed,4787,957,34,Female,Inbound Freight,2758,Rent,1072
+236,2024-08-23,Central,Maize Seeds,5303,1060,48,Male,Packaging,3055,Utilities,1188
+237,2024-08-24,Southern,Fertilizer,6936,1387,23,Female,Raw Materials,3995,Marketing,1554
+238,2024-08-25,Northern,Pesticides,3847,769,39,Male,Direct Labor,2216,Admin Salaries,862
+239,2024-08-26,Central,Irrigation Kit,9128,1825,60,Female,Inbound Freight,5258,Transport,2045
+240,2024-08-27,Southern,Animal Feed,2572,514,26,Male,Packaging,1482,Repairs,576
+241,2024-08-28,Northern,Maize Seeds,8347,1669,45,Female,Raw Materials,4808,Rent,1870
+242,2024-08-29,Central,Fertilizer,4717,943,32,Male,Direct Labor,2717,Utilities,1057
+243,2024-08-30,Southern,Pesticides,6990,1398,54,Female,Inbound Freight,4026,Marketing,1566
+244,2024-08-31,Northern,Irrigation Kit,5129,1026,30,Male,Packaging,2954,Admin Salaries,1149
+245,2024-09-01,Central,Animal Feed,6236,1247,36,Female,Raw Materials,3592,Transport,1397
+246,2024-09-02,Southern,Maize Seeds,7899,1579,43,Male,Direct Labor,4550,Repairs,1770
+247,2024-09-03,Northern,Fertilizer,3461,692,28,Female,Inbound Freight,1994,Rent,775
+248,2024-09-04,Central,Pesticides,9133,1826,51,Male,Packaging,5261,Utilities,2046
+249,2024-09-05,Southern,Irrigation Kit,4794,959,40,Female,Raw Materials,2761,Marketing,1074
+250,2024-09-06,Northern,Animal Feed,5637,1127,47,Male,Direct Labor,3247,Admin Salaries,1263
+251,2024-09-07,Central,Maize Seeds,6726,1345,35,Female,Inbound Freight,3874,Transport,1507
+252,2024-09-08,Southern,Fertilizer,7897,1588,52,Male,Packaging,4542,Repairs,1767
+253,2024-09-09,Northern,Pesticides,3130,626,29,Female,Raw Materials,1803,Rent,701
+254,2024-09-10,Central,Irrigation Kit,8461,1692,55,Male,Direct Labor,4874,Utilities,1895
+255,2024-09-11,Southern,Animal Feed,4787,957,34,Female,Inbound Freight,2758,Marketing,1072
+256,2024-09-12,Northern,Maize Seeds,5303,1060,48,Male,Packaging,3055,Admin Salaries,1188
+257,2024-09-13,Central,Fertilizer,6936,1387,23,Female,Raw Materials,3995,Transport,1554
+258,2024-09-14,Southern,Pesticides,3847,769,39,Male,Direct Labor,2216,Repairs,862
+259,2024-09-15,Northern,Irrigation Kit,9128,1825,60,Female,Inbound Freight,5258,Rent,2045
+260,2024-09-16,Central,Animal Feed,2572,514,26,Male,Packaging,1482,Utilities,576
+261,2024-09-17,Southern,Maize Seeds,8347,1669,45,Female,Raw Materials,4808,Marketing,1870
+262,2024-09-18,Northern,Fertilizer,4717,943,32,Male,Direct Labor,2717,Admin Salaries,1057
+263,2024-09-19,Central,Pesticides,6990,1398,54,Female,Inbound Freight,4026,Transport,1566
+264,2024-09-20,Southern,Irrigation Kit,5129,1026,30,Male,Packaging,2954,Repairs,1149
+265,2024-09-21,Northern,Animal Feed,6236,1247,36,Female,Raw Materials,3592,Rent,1397
+266,2024-09-22,Central,Maize Seeds,7899,1579,43,Male,Direct Labor,4550,Utilities,1770
+267,2024-09-23,Southern,Fertilizer,3461,692,28,Female,Inbound Freight,1994,Marketing,775
+268,2024-09-24,Northern,Pesticides,9133,1826,51,Male,Packaging,5261,Admin Salaries,2046
+269,2024-09-25,Central,Irrigation Kit,4794,959,40,Female,Raw Materials,2761,Transport,1074
+270,2024-09-26,Southern,Animal Feed,5637,1127,47,Male,Direct Labor,3247,Repairs,1263
+271,2024-09-27,Northern,Maize Seeds,6726,1345,35,Female,Inbound Freight,3874,Rent,1507
+272,2024-09-28,Central,Fertilizer,7897,1588,52,Male,Packaging,4542,Utilities,1767
+273,2024-09-29,Southern,Pesticides,3130,626,29,Female,Raw Materials,1803,Marketing,701
+274,2024-09-30,Northern,Irrigation Kit,8461,1692,55,Male,Direct Labor,4874,Admin Salaries,1895
+275,2024-10-01,Central,Animal Feed,4787,957,34,Female,Inbound Freight,2758,Transport,1072
+276,2024-10-02,Southern,Maize Seeds,5303,1060,48,Male,Packaging,3055,Repairs,1188
+277,2024-10-03,Northern,Fertilizer,6936,1387,23,Female,Raw Materials,3995,Rent,1554
+278,2024-10-04,Central,Pesticides,3847,769,39,Male,Direct Labor,2216,Utilities,862
+279,2024-10-05,Southern,Irrigation Kit,9128,1825,60,Female,Inbound Freight,5258,Marketing,2045
+280,2024-10-06,Northern,Animal Feed,2572,514,26,Male,Packaging,1482,Admin Salaries,576
+281,2024-10-07,Central,Maize Seeds,8347,1669,45,Female,Raw Materials,4808,Transport,1870
+282,2024-10-08,Southern,Fertilizer,4717,943,32,Male,Direct Labor,2717,Repairs,1057
+283,2024-10-09,Northern,Pesticides,6990,1398,54,Female,Inbound Freight,4026,Rent,1566
+284,2024-10-10,Central,Irrigation Kit,5129,1026,30,Male,Packaging,2954,Utilities,1149
+285,2024-10-11,Southern,Animal Feed,6236,1247,36,Female,Raw Materials,3592,Marketing,1397
+286,2024-10-12,Northern,Maize Seeds,7899,1579,43,Male,Direct Labor,4550,Admin Salaries,1770
+287,2024-10-13,Central,Fertilizer,3461,692,28,Female,Inbound Freight,1994,Transport,775
+288,2024-10-14,Southern,Pesticides,9133,1826,51,Male,Packaging,5261,Repairs,2046
+289,2024-10-15,Northern,Irrigation Kit,4794,959,40,Female,Raw Materials,2761,Rent,1074
+290,2024-10-16,Central,Animal Feed,5637,1127,47,Male,Direct Labor,3247,Utilities,1263
+291,2024-10-17,Southern,Maize Seeds,6726,1345,35,Female,Inbound Freight,3874,Marketing,1507
+292,2024-10-18,Northern,Fertilizer,7897,1588,52,Male,Packaging,4542,Admin Salaries,1767
+293,2024-10-19,Central,Pesticides,3130,626,29,Female,Raw Materials,1803,Transport,701
+294,2024-10-20,Southern,Irrigation Kit,8461,1692,55,Male,Direct Labor,4874,Repairs,1895
+295,2024-10-21,Northern,Animal Feed,4787,957,34,Female,Inbound Freight,2758,Rent,1072
+296,2024-10-22,Central,Maize Seeds,5303,1060,48,Male,Packaging,3055,Utilities,1188
+297,2024-10-23,Southern,Fertilizer,6936,1387,23,Female,Raw Materials,3995,Marketing,1554
+298,2024-10-24,Northern,Pesticides,3847,769,39,Male,Direct Labor,2216,Admin Salaries,862
+299,2024-10-25,Central,Irrigation Kit,9128,1825,60,Female,Inbound Freight,5258,Transport,2045
+300,2024-10-26,Southern,Animal Feed,2572,514,26,Male,Packaging,1482,Repairs,576

@@ -1,0 +1,21 @@
+{
+  "customers": [],
+  "transactions": [],
+  "reminderTemplates": [
+    {
+      "id": "rm-1",
+      "name": "Payment Reminder",
+      "template": "Hello {{name}}, your due amount is {{amount}}. Please pay at your earliest convenience."
+    },
+    {
+      "id": "rm-2",
+      "name": "New Product Launch",
+      "template": "Hi {{name}}, we have exciting new arrivals! Visit us soon."
+    },
+    {
+      "id": "rm-3",
+      "name": "Festival Offer",
+      "template": "Happy Holidays {{name}}! Enjoy 10% off your next purchase."
+    }
+  ]
+}

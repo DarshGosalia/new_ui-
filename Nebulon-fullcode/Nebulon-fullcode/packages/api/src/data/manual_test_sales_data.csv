@@ -1,0 +1,21 @@
+Customer ID,Date,Region,Product,Sales,Profit,Customer Age,Customer Gender,COGS Category,COGS Amount,OPEX Category,OPEX Amount
+1001,2025-01-05,Central,Maize Seeds,8200,1640,34,Female,Raw Materials,4920,Rent,1640
+1002,2025-01-06,Southern,Fertilizer,6400,960,47,Male,Direct Labor,3840,Utilities,1600
+1003,2025-01-07,Northern,Pesticides,5100,765,29,Female,Inbound Freight,3060,Marketing,1275
+1004,2025-01-08,Central,Irrigation Kit,12000,1800,53,Male,Packaging,7200,Admin Salaries,3000
+1005,2025-01-09,Southern,Animal Feed,4300,645,41,Female,Raw Materials,2580,Transport,1075
+1006,2025-01-10,Northern,Maize Seeds,9800,1470,38,Male,Direct Labor,5880,Repairs,2450
+1007,2025-01-11,Central,Fertilizer,7000,1050,26,Female,Inbound Freight,4200,Rent,1750
+1008,2025-01-12,Southern,Pesticides,5600,840,31,Male,Packaging,3360,Utilities,1400
+1009,2025-01-13,Northern,Irrigation Kit,15000,2250,56,Female,Raw Materials,9000,Marketing,3750
+1010,2025-01-14,Central,Animal Feed,3900,585,24,Male,Direct Labor,2340,Admin Salaries,975
+1011,2025-01-15,Southern,Maize Seeds,8600,1290,44,Female,Inbound Freight,5160,Transport,2150
+1012,2025-01-16,Northern,Fertilizer,6100,915,33,Male,Packaging,3660,Repairs,1525
+1013,2025-01-17,Central,Pesticides,4700,705,28,Female,Raw Materials,2820,Rent,1175
+1014,2025-01-18,Southern,Irrigation Kit,13200,1980,49,Male,Direct Labor,7920,Utilities,3300
+1015,2025-01-19,Northern,Animal Feed,5200,780,36,Female,Inbound Freight,3120,Marketing,1300
+1016,2025-01-20,Central,Maize Seeds,9100,1365,39,Male,Packaging,5460,Admin Salaries,2275
+1017,2025-01-21,Southern,Fertilizer,5800,870,27,Female,Raw Materials,3480,Transport,1450
+1018,2025-01-22,Northern,Pesticides,4950,742,45,Male,Direct Labor,2970,Repairs,1238
+1019,2025-01-23,Central,Irrigation Kit,14200,2130,58,Female,Inbound Freight,8520,Rent,3550
+1020,2025-01-24,Southern,Animal Feed,4100,615,30,Male,Packaging,2460,Utilities,1025

@@ -1,0 +1,200 @@
+/* ──────────────────────────────────────────────────────────────────────────
+   INVENTORY INTELLIGENCE & ANALYTICS - CORE STYLES
+   ────────────────────────────────────────────────────────────────────────── */
+
+.recharts-wrapper {
+  font-family: 'Outfit', sans-serif;
+}
+.recharts-tooltip-cursor {
+  fill: rgba(255, 255, 255, 0.05);
+}
+.recharts-cartesian-grid-horizontal line, 
+.recharts-cartesian-grid-vertical line {
+  stroke: rgba(255, 255, 255, 0.05);
+}
+.recharts-legend-item-text {
+  color: #a1a1aa !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes scan-line {
+  0% { transform: translateY(0); opacity: 0; }
+  50% { transform: translateY(224px); opacity: 1; }
+  100% { transform: translateY(0); opacity: 0; }
+}
+
+/* Glassmorphic KPI Cards */
+.kpi-card {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: all 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.kpi-card:hover {
+  transform: translateY(-8px);
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(45, 95, 93, 0.3);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4), 0 0 20px rgba(45, 95, 93, 0.1);
+}
+
+/* AI Insights Box Decoration */
+.ai-insights-box {
+  background: linear-gradient(135deg, rgba(45, 95, 93, 0.08), rgba(197, 160, 63, 0.05));
+  border: 1px solid rgba(45, 95, 93, 0.15);
+  border-radius: 2rem;
+  padding: 2rem;
+  box-shadow: inset 0 0 40px rgba(45, 95, 93, 0.05);
+}
+
+/* Chart Container Decor */
+.chart-container-glass {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 2rem;
+  padding: 1.5rem;
+}
+
+/* Custom Scrollbar for the table */
+.overflow-x-auto::-webkit-scrollbar {
+  height: 6px;
+}
+.overflow-x-auto::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.01);
+}
+.overflow-x-auto::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 10px;
+}
+.overflow-x-auto::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+/* ──────────────────────────────────────────────────────────────────────────
+   PRINT STYLES (Structured Report)
+   ────────────────────────────────────────────────────────────────────────── */
+@media print {
+  @page {
+    margin: 1.5cm;
+    size: A4;
+  }
+
+  body {
+    background-color: #fff !important;
+    color: #000 !important;
+    -webkit-print-color-adjust: exact;
+  }
+  
+  .min-h-screen {
+    background: #fff !important;
+    padding: 0 !important;
+  }
+  
+  .global-toolbar, .no-print, button, input, .scan-product-btn {
+    display: none !important;
+  }
+  
+  .max-w-7xl {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+
+  /* Grid Reset for Print */
+  .inventory-grid, .grid {
+    display: block !important;
+  }
+
+  .inventory-grid-4 {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 15px !important;
+    margin-bottom: 2rem !important;
+  }
+
+  .kpi-card {
+    width: 23% !important;
+    border: 1px solid #eee !important;
+    background: #fbfbfc !important;
+    color: #000 !important;
+    padding: 15px !important;
+    box-shadow: none !important;
+  }
+
+  .kpi-card h2 { color: #000 !important; }
+  .kpi-card p { color: #666 !important; }
+
+  .ai-insights-box {
+    background: #f8fafc !important;
+    border: 1px solid #e2e8f0 !important;
+    margin-bottom: 3rem !important;
+    page-break-inside: avoid;
+  }
+
+  .ai-insights-box .inventory-grid {
+    display: block !important;
+  }
+
+  .ai-insights-box .bg-white\/5 {
+    background: transparent !important;
+    border: none !important;
+    border-left: 2px solid #3b82f6 !important;
+    border-radius: 0 !important;
+    margin-bottom: 12px !important;
+    color: #334155 !important;
+  }
+
+  /* Force Charts to display properly in print */
+  .recharts-responsive-container {
+    filter: grayscale(0.5) contrast(1.2) !important;
+    height: 300px !important;
+  }
+
+  .recharts-legend-wrapper {
+    position: relative !important;
+    padding-top: 15px !important;
+  }
+
+  h1, h2, h3, h4, p, span, td, th {
+    color: #000 !important;
+  }
+
+  section, .mb-12 {
+    page-break-after: auto;
+    page-break-inside: avoid;
+  }
+
+  .overflow-x-auto {
+    overflow: visible !important;
+  }
+
+  table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+  }
+
+  th { background: #f1f5f9 !important; color: #475569 !important; }
+  td, th { border: 1px solid #e2e8f0 !important; padding: 10px !important; }
+
+  .report-print-header {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #1e293b;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+
+.report-print-header {
+  display: none;
+}
